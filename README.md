@@ -1,34 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[![stars](https://img.shields.io/github/stars/barbarbar338/nasil-soru-sorulur?color=yellow&logo=github&style=for-the-badge)](https://github.com/barbarbar338/nasil-soru-sorulur)
+[![license](https://img.shields.io/github/license/barbarbar338/nasil-soru-sorulur?logo=github&style=for-the-badge)](https://github.com/barbarbar338/nasil-soru-sorulur)
+[![supportServer](https://img.shields.io/discord/711995199945179187?color=7289DA&label=Support&logo=discord&style=for-the-badge)](https://discord.gg/BjEJFwh)
+[![forks](https://img.shields.io/github/forks/barbarbar338/nasil-soru-sorulur?color=green&logo=github&style=for-the-badge)](https://github.com/barbarbar338/nasil-soru-sorulur)
+[![issues](https://img.shields.io/github/issues/barbarbar338/nasil-soru-sorulur?color=red&logo=github&style=for-the-badge)](https://github.com/barbarbar338/nasil-soru-sorulur)
 
-## Getting Started
+<p align="center">
+  <img src="public/favicon.svg" alt="Logo" width="160" height="160" />
+  <h3 align="center">Nasıl Soru Sorulur</h3>
 
-First, run the development server:
+  <p align="center">
+    Nasıl daha efektif bir şekilde soru sorabileceğiniz hakkında bilgi edinebileceğiniz bir website.
+    <br />
+    <a href="https://discord.gg/BjEJFwh"><strong>Destek Alın »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/barbarbar338/nasil-soru-sorulur/issues">Bug Bildirin</a>
+    ·
+    <a href="https://github.com/barbarbar338/nasil-soru-sorulur/issues">İstekte bulunun</a>
+    ·
+    <a href="https://nasil-soru-sorulur.vercel.app">Siteye Ulaşın</a>
+  </p>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# 📦 Kurulum
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+-   Paketleri indirin: `yarn`
+-   Siteyi buildleyin: `yarn build`
+-   Sunucunuzu başlatın: `yarn start`
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+# 📄 Lisans
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.tsx`.
+Telif Hakkı © 2021 [Barış DEMİRCİ](https://github.com/barbarbar338).
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) lisansı altında yapılmıştır. Daha fazla bilgi için `LICENSE` dosaysına bakın.
 
-## Learn More
+# 🧦 Katkıda bulunma
 
-To learn more about Next.js, take a look at the following resources:
+GitHub'un özelliklerini kullanmaktan çekinmeyin.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Projeyi forklayın
+2. Yeni ekleyeceğiniz özelliğin branchını oluşturun (`git checkout -b feature/my-feature`)
+3. prettier ve eslint komutlarını çalıştırın (`npm run format && npm run lint`)
+4. Değişikliklerinizi brancha işleyin (`git commit -m 'my awesome feature my-feature'`)
+5. Commitlerinizi branch üzerine yazın (`git push origin feature/my-feature`)
+6. Bir pull request açın
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+# 🔥 Desteğinizi Gösterin
 
-## Deploy on Vercel
+Eğer bu proje sizlere yardımcı olduysa bir ⭐️ bırakabilirsiniz!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# 📞 Bana Ulaşın
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+-   E-Posta: demirci.baris38@gmail.com
+-   Discord: https://discord.gg/BjEJFwh
+-   Instagram: https://www.instagram.com/ben_baris.d/

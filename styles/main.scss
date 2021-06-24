@@ -1,0 +1,11 @@
+::-webkit-scrollbar {
+	@apply w-3;
+}
+
+::-webkit-scrollbar-track {
+	@apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+	@apply bg-primary hover:bg-primary-focus;
+}
