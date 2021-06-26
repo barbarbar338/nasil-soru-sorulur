@@ -71,7 +71,10 @@ export const Navbar: FC = () => {
 			</div>
 			<div className="flex-none">
 				<ThemeSwitcher />
-				<div data-tip="Bu Sayfayı Paylaş" className="tooltip">
+				<div
+					data-tip="Bu Sayfayı Paylaş"
+					className="tooltip hidden md:block"
+				>
 					<button
 						onClick={copyShareURL}
 						className="btn btn-square btn-ghost"
