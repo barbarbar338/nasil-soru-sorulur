@@ -27,16 +27,20 @@ Bu durumu örneklendirecek olursak:
 
 -   Bu örneğimizde bir uygulama geliştiricisi belirtilen dosyanın uzantısını belirlemek istiyor, ancak sorusunu yanlış sorduğu için boş yere zaman kaybediyor:
 
-```
-> John Doe      @ 10:00AM: Merhaba, acaba JavaScript ile bir stringin son üç harfini nasıl ayırabilirim?
-> Jane Parker   @ 10:10AM: Merhaba John, "<String>.slice(-3)" kodu ile bir stringin son üç harfini alabilirsin.
----
-> John Doe      @ 11:20AM: Merhaba, acaba JavaScript ile bir stringi nasıl noktalarından ayırabilirim? Örneğin "merhaba.dünya" şeklinde bir stringi ["merhaba", "dünya"] gibi.
-> Cheryl Wilson @ 11:20AM: Merhaba John, "<String>.split('.')" kodu işini görecektir.
-> Jane Parker   @ 11:40AM: Hey John, acaba bir dosyanın uzantısını mı almaya çalışıyorsun?
-> John Doe      @ 11:45AM: Evet Jane, bir dosyanın uzantısına ulaşmak istiyorum.
-> Jane Parker   @ 11:40AM: Neden en başında söylemiyorsun? Bütün dosyaların uzantıları üç harf ile bitmiyor olabilir. "<String>.match(/\.([0-9a-z]+)(?:[\?#]|$)/)" kodu işine yarayacaktır.
-> John Doe      @ 12:00AM: Oh, teşekkürler Jane! Günümü kurtardın.
-```
+> **> John Doe @ 10:00AM:** Merhaba, acaba JavaScript ile bir stringin son üç harfini nasıl ayırabilirim?
+
+> **> Jane Parker @ 10:10AM:** Merhaba John, "<String>.slice(-3)" kodu ile bir stringin son üç harfini alabilirsin.
+
+> **> John Doe @ 11:20AM:** Merhaba, acaba JavaScript ile bir stringi nasıl noktalarından ayırabilirim? Örneğin "merhaba.dünya" şeklinde bir stringi ["merhaba", "dünya"] gibi.
+
+> **> Cheryl Wilson @ 11:20AM:** Merhaba John, "<String>.split('.')" kodu işini görecektir.
+
+> **> Jane Parker @ 11:40AM:** Hey John, acaba bir dosyanın uzantısını mı almaya çalışıyorsun?
+
+> **> John Doe @ 11:45AM:** Evet Jane, bir dosyanın uzantısına ulaşmak istiyorum.
+
+> **> Jane Parker @ 11:40AM:** Neden en başında söylemiyorsun? Bütün dosyaların uzantıları üç harf ile bitmiyor olabilir. "<String>.match(/\.([0-9a-z]+)(?:[\?#]|$)/)" kodu işine yarayacaktır.
+
+> **> John Doe @ 12:00AM:** Oh, teşekkürler Jane! Günümü kurtardın.
 
 -   gördüğünüz gibi John Doe sorusunu "Stringin son üç harfi nasıl alınır?" gibi sormaktansa "Bir dosyanın uzantısını nasıl alınır?" şeklinde sorsaydı hem cevabına daha hızlı ulaşırdı hem de birden çok kişi ile gereksiz sohbette bulunmazdı.

@@ -19,13 +19,13 @@ Size yardım edebilecek kişiler ilk olarak sorunuzun başlığını görür ve 
 
 İşte birkaç örnek:
 
-```
-> Kötü bir başlık: Zar atıldığında kazanma olasılığım nedir?
-> İyi bir başlık: Hilesiz bir zar atıldığında çıkan sonucun 1 olma olasılığı nedir?
----
-> Kötü bir başlık: "ki" nasıl yazılır?
-> İyi bir başlık: Bağlaç olan "ki" ve ek olan "-ki" nasıl ayırt edilir?
-```
+> **> Kötü bir başlık:** Zar atıldığında kazanma olasılığım nedir?
+
+> **> İyi bir başlık:** Hilesiz bir zar atıldığında çıkan sonucun 1 olma olasılığı nedir?
+
+> **> Kötü bir başlık:** "ki" nasıl yazılır?
+
+> **> İyi bir başlık:** Bağlaç olan "ki" ve ek olan "-ki" nasıl ayırt edilir?
 
 ### Size yardımcı olacak kişilere yardımcı olun
 
