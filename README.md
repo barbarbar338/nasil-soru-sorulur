@@ -18,7 +18,7 @@
     ·
     <a href="https://github.com/barbarbar338/nasil-soru-sorulur/issues">İstekte bulunun</a>
     ·
-    <a href="https://nasil-soru-sorulur.vercel.app">Siteye Ulaşın</a>
+    <a href="http://nss.338.rocks/">Siteye Ulaşın</a>
   </p>
 </p>
 
